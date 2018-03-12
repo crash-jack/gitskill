@@ -1,3 +1,3 @@
 # gitskill
 
-这是git 测试
+Creating a new branch is quick & simple.
